@@ -1,7 +1,7 @@
 # III. IDE PyCharm:
 # ===================
 # 1. Different IDEs in market
-#     IDLE
+#     IDLEs
 #     PyCharm
 #     Visual Studio Code
 #     Sublime Text 3
@@ -37,7 +37,7 @@
 #         Select a recently opened file from the list.
 #
 #     6)Ctrl+W
-#         Extend or shrink selection
+#         Extend or shrink selections
 #
 #     7)Ctrl+Shift+W
 #         Increase or decrease the scope of selection according to specific code constructs.
